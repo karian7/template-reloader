@@ -1,0 +1,41 @@
+<div class="container" data-ng-controller="ListCtrl">
+    <h1>Cafe Template Reload</h1>
+    <p>리로드할 템플릿 선택, 리로드 실행.</p>
+    <form id="formTemplateReload" class="form-inline" role="form">
+        <fieldset>
+            <div id="legend" class="sr-only">
+                <legend>Cafe Template Reload</legend>
+            </div>
+            <div class="col-lg-6">
+                <input id="searcher" type="text" placeholder="Search" class="search-query form-control" autofocus="yes" autocomplete="off"
+                       data-ng-model="search" style="width: inherit" typeahead="template for template in all() | filter: excludeSelected | filter:$viewValue | limitTo: 5"
+                       typeahead-on-select="addSelected()">
+                <button class="btn btn-default" data-ng-click="reset()">리셋</button>
+                <div class="templates">
+                    <div data-ng-repeat="template in selected()" >
+                        <button class="btn btn-default btn-sm" data-ng-click="delSelected(template)">취소</button>
+                        <span class="template_label" data-ng-click="delSelected(template)">{{ template }}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="ng-hide col-lg-6" data-ng-show="isSelected()">
+                <textarea class="form-control" rows="2">{{ getReloadPath() }}</textarea>
+                <div class="pull-right" style="margin-top: 5px;">
+                    <span>{{ selected().length }} 개의 템플릿을</span>
+                    <button class="btn btn-warning" data-ng-click="reloadThis()">이서버만 리로드</button>
+                    <button class="btn btn-danger" data-ng-click="reloadAll()">전체 리로드</button>
+                </div>
+                <div class="clearfix"></div>
+                <div>
+                    <div class="templates">
+                        <div data-ng-show="reloadSuccess > 0 || reloadFail > 0">성공: {{ reloadSuccess }}, 실패: {{ reloadFail }}</div>
+                        <div data-ng-repeat="server in servers" >
+                            <label><span class="template_label" ng-class="{err: !server.success}">{{ server.name }} : {{ server.success ? 'OK' : 'ERROR' }}</span></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+
+</div>
