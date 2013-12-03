@@ -1,0 +1,64 @@
+body {
+    padding-top: 60px;
+    /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+.nav-tabs li {
+    cursor: pointer;
+}
+.content {
+    padding-top: 20px;
+}
+.templates {
+    padding-top: 5px;
+}
+.templates div {
+    border-bottom: 1px solid #eee;
+    padding: 3px 0
+}
+#searchControls {
+    position: fixed;
+    left: 52.5%;
+    top: 150px
+}
+.form-horizontal .controls {
+    margin-left: 0;
+}
+#formTemplateReload {
+    position: relative
+}
+.err {
+    color: red;
+}
+
+.repeat-item.ng-enter,
+.repeat-item.ng-leave {
+    -webkit-transition:0.2s linear all;
+    transition:0.5s linear all;
+}
+
+.repeat-item.ng-enter,
+.repeat-item.ng-leave.ng-leave-active {
+    opacity:0;
+}
+.repeat-item.ng-leave,
+.repeat-item.ng-enter.ng-enter-active {
+    opacity:1;
+}
+
+.server-panel {
+    -webkit-transition:0.5s linear all;
+    transition:0.2s linear all;
+    opacity:1;
+}
+
+.server-panel.ng-hide {
+    opacity:0;
+}
+
+.server-panel.ng-hide-add, .server-panel.ng-hide-remove {
+    /* this needs to be here to make it visible during the animation
+       since the .ng-hide class is already on the element rendering
+       it as hidden. */
+    display:block!important;
+}

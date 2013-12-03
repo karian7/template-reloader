@@ -1,15 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecb5f96b-1485-45f8-9bbf-696553cfeca8" name="Default" comment="init" />
+    <list default="true" id="ecb5f96b-1485-45f8-9bbf-696553cfeca8" name="Default" comment="init">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-animate/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-animate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-animate/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-animate/angular-animate.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-animate/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-animate/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/config.mock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partials/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/reload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/require.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/template-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/template_manager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/templates_mobile.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/templates_pc.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/jquery-migrate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reload-service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/require.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/select-service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/servers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap.js" afterPath="$PROJECT_DIR$/src/config/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/sample/server.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/template_manager" afterPath="$PROJECT_DIR$/sample/template_manager" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/A.js" afterPath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/A.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/B.js" afterPath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/B.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/C.js" afterPath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/C.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/MyClass.js" afterPath="$PROJECT_DIR$/bower_components/requirejs/tests/circular/414/MyClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/requirejs/tests/i18n/nls/colors.js" afterPath="$PROJECT_DIR$/bower_components/requirejs/tests/i18n/nls/colors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/requirejs/tests/i18n/nls/en-us-surfer/colors.js" afterPath="$PROJECT_DIR$/bower_components/requirejs/tests/i18n/nls/en-us-surfer/colors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="bower-test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385923516957" ignored="false" />
     <file path="$PROJECT_DIR$/../cafe-web/src/main/webapp/template/template_manager.html" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385868133249" ignored="false" />
-    <file path="/Dummy.txt" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385943254222" ignored="false" />
+    <file path="/Dummy.txt" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386108815575" ignored="false" />
     <file path="/servers.json" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385903581428" ignored="false" />
     <file path="/template_manager" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385875434513" ignored="false" />
-    <file path="/a.dummy" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385921026920" ignored="false" />
+    <file path="/a.dummy" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386086956871" ignored="false" />
     <file path="/app.css" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385913988844" ignored="false" />
     <file path="/index2.html" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385908107385" ignored="false" />
     <file path="/index3.html" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385917163293" ignored="false" />
@@ -18,11 +78,20 @@
     <file path="$PROJECT_DIR$/../kibana/src/app/app.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385916737346" ignored="false" />
     <file path="/bootstrap.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385918954722" ignored="false" />
     <file path="/factory.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385920951120" ignored="false" />
-    <file path="/controller.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385923260779" ignored="false" />
+    <file path="/controller.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386089721053" ignored="false" />
     <file path="/service.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385921978612" ignored="false" />
     <file path="/reload-service.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385922681391" ignored="false" />
     <file path="/routes.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385923995822" ignored="false" />
-    <file path="/list.html" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1385924408834" ignored="false" />
+    <file path="/list.html" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386089393117" ignored="false" />
+    <file path="$PROJECT_DIR$/../cafe-web/src/main/webapp/static/template_reloader/src/services/reload.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386089561173" ignored="false" />
+    <file path="/reload.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386089516896" ignored="false" />
+    <file path="$PROJECT_DIR$/../cafe-web/src/main/webapp/static/template_reloader/src/services/config.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386108651651" ignored="false" />
+    <file path="$PROJECT_DIR$/../cafe-web/src/main/webapp/static/template_reloader/src/controllers/controller.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386089738359" ignored="false" />
+    <file path="$PROJECT_DIR$/../cafe-web/src/main/webapp/static/template_reloader/src/partials/list.html" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386089394956" ignored="false" />
+    <file path="/template-search.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386086924096" ignored="false" />
+    <file path="$PROJECT_DIR$/../cafe-web/src/main/webapp/static/template_reloader/src/services/template-search.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386087005820" ignored="false" />
+    <file path="/config.js" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386089667115" ignored="false" />
+    <file path="/fragment.java" changelist="ecb5f96b-1485-45f8-9bbf-696553cfeca8" time="1386087184776" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +106,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -73,7 +143,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -83,82 +152,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/angular/README.md">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="822" selection-end="822" vertical-scroll-proportion="-17.5">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="8" selection-start="189" selection-end="195" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#154#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="21" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="templates.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="22" selection-start="65" selection-end="65" vertical-scroll-proportion="0.07125891">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="service.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="26" selection-start="651" selection-end="664" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_manager" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template_manager">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="servers.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servers.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="83" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="17" selection-start="2125" selection-end="2125" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.iml">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -166,10 +182,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README">
+      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_manager" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/template_manager">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templates_pc.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/templates_pc.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="22" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template-search.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/template-search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reload.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/services/reload.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="37" selection-start="253" selection-end="253" vertical-scroll-proportion="0.33707866">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templates_mobile.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/templates_mobile.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -193,8 +263,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/index3.html" />
         <option value="$PROJECT_DIR$/app.css" />
         <option value="$PROJECT_DIR$/bower_components/app_config.js" />
         <option value="$PROJECT_DIR$/factory.js" />
@@ -209,6 +277,8 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/list.html" />
         <option value="$PROJECT_DIR$/templates.json" />
+        <option value="$PROJECT_DIR$/src/services/config.js" />
+        <option value="$PROJECT_DIR$/src/services/reload.js" />
       </list>
     </option>
   </component>
@@ -245,7 +315,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,8 +333,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,6 +385,9 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -405,24 +510,24 @@
     <frame x="8" y="31" width="1420" height="860" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -489,119 +594,80 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="53" selection-start="305" selection-end="305" vertical-scroll-proportion="-3.75">
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#1;n#fieldset#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#fieldset#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/select-service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="170" selection-end="180" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="56" selection-start="198" selection-end="198" vertical-scroll-proportion="-6.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="24" selection-start="1954" selection-end="1961" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reload-service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="822" selection-end="822" vertical-scroll-proportion="-17.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="189" selection-end="195" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#154#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template_manager">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="26" selection-start="651" selection-end="664" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="83" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="17" selection-start="2125" selection-end="2125" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular/README.md">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates.json">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="65" selection-end="65" vertical-scroll-proportion="0.07125891">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/templates_mobile.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/template_manager">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/templates_pc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/template-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/reload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="37" selection-start="253" selection-end="253" vertical-scroll-proportion="0.33707866">
           <folding />
         </state>
       </provider>

@@ -1,0 +1,24 @@
+[
+	{
+		"name": "pc-web",
+		"servers": [
+			"localhost:8000"
+			, "localhost:8000"
+			, "localhost:8000"
+			],
+		"contextPath": "/",
+		"reloadUrl": "sample/template_manager",
+		"templateListUrl": "sample/templates_pc.json" 
+	},
+	{
+		"name": "mobile-web",
+		"servers": [
+			"localhost:8000",
+			"localhost:8000",
+			"localhost:8000"
+		],
+		"contextPath": "/",
+		"reloadUrl": "sample/template_manager",
+		"templateListUrl": "sample/templates_mobile.json"
+	}
+]

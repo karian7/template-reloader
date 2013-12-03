@@ -6,13 +6,13 @@
  * To change this template use File | Settings | File Templates.
  */
 define([
-  'angular',
-  'app',
-  'routes'
+	'angular',
+	'../app',
+	'config/routes'
 ], function (angular) {
-  'use strict';
-  angular.element(document)
-      .ready(function () {
-        angular.bootstrap(document, ['app']);
-      })
+	'use strict';
+	angular.element(document)
+		.ready(function () {
+			angular.bootstrap(document, ['app']);
+		})
 });
